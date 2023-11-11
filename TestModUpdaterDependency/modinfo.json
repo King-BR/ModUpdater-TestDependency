@@ -1,5 +1,5 @@
 {
-  "name": "TestModUpdaterDependency",
+  "name": "TestModUpdaterDependency2",
   "author": "",
   "description": "",
   "version": "1.0",
@@ -13,6 +13,6 @@
   "excludedFiles": [],
   "dependencies": [
   	"uiplus",
-	"dump-items"
+	  "dump-items"
   ]
 }
